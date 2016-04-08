@@ -1,10 +1,10 @@
 namespace TestLibrary
 {
-    Class A { }
+    class A { }
   
-    Class B { }
+    class B { }
 
-    Class C
+    class C
     {
         public void foo()
         {
